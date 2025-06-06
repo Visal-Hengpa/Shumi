@@ -1,0 +1,2 @@
+# Shumi
+AWS練習
